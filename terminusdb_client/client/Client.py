@@ -2932,6 +2932,7 @@ class Client:
             f"{self.api}/db/{team}/{dbid}",
             headers=self._default_headers,
             auth=self._auth(),
+            allow_redirects=True,
         )
         return r.status_code == 200
 
