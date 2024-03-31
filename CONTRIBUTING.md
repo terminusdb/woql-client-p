@@ -4,7 +4,7 @@ Thanks for interested to contribute to TerminusDB Client, to get started, fork t
 
 ## Setting up dev environment 💻
 
-Make sure you have Python>=3.6 installed. We use [pipenv](https://pipenv-fork.readthedocs.io/en/latest/) for dev environment, to install pipenv:
+Make sure you have Python>=3.8 installed. We use [pipenv](https://pipenv-fork.readthedocs.io/en/latest/) for dev environment, to install pipenv:
 
 `pip3 install pipenv --upgrade`
 

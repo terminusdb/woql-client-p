@@ -33,7 +33,7 @@ graph all through a simple document API.
 ## Requirements
 
 - [TerminusDB v10.0](https://github.com/terminusdb/terminusdb-server)
-- [Python >=3.7](https://www.python.org/downloads)
+- [Python >=3.8](https://www.python.org/downloads)
 
 ## Release Notes and Previous Versions
 
