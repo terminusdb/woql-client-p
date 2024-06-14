@@ -7,6 +7,7 @@ services:
   terminusdb-server:
     image: terminusdb/terminusdb-server:dev
     container_name: terminusdb-server
+    pull_policy: always
     hostname: terminusdb-server
     tty: true
     ports:
